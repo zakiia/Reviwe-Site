@@ -1,0 +1,8 @@
+.reviews {
+  padding: 20px;
+  height: 150px;
+  width: 80%;
+  text-align: left;
+  border: 1px solid white;
+  border-radius: 10px;
+}

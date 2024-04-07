@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Bapparaz",
+    "comment": "Koshto ke Joy korte ekta laptop ee jothesto",
+    "ratings": 5
+  },
+  {
+    "id": 2,
+    "name": "Joshim",
+    "comment": "Lottery er taka diya laptop kine bhul korini",
+    "ratings": 5
+  },
+  {
+    "id": 3,
+    "name": "Shabana",
+    "comment": "Shelai Machine er jug shesh apple er bangladesh",
+    "ratings": 4
+  },
+  {
+    "id": 4,
+    "name": "Anwar",
+    "comment": "Dam shunei heart attack chole ashlo",
+    "ratings": 2
+  },
+  {
+    "id": 5,
+    "name": "Shakib Khan",
+    "comment": "Biye kore lukiye rakhleo laptop kine lukai nah",
+    "ratings": 4
+  },
+  {
+    "id": 6,
+    "name": "Ananto Jolil",
+    "comment": "Laptop age nah ami age?!",
+    "ratings": 3
+  }
+]

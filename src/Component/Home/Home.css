@@ -1,4 +1,43 @@
 .home-container {
+  background-color: black;
+  color: white;
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 3fr 1fr;
+}
+.img-container img {
+  height: 100%;
+  width: 80%;
+}
+.text-container {
+  margin-top: 60px;
+  margin-right: 25px;
+  color: gray;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+}
+.btn-review {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(34, 30, 30);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.btn-review:hover {
+  background-color: white;
+  color: black;
+}
+.review {
+  padding-top: 50px;
+  background: black;
+  color: gray;
+}
+.review-container {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
 }
