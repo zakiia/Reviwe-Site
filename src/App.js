@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import Header from "./Component/Header/Header";
 import Home from "./Component/Home/Home";
-import Review from "./Component/Review/Review";
+import Reviews from "./Component/Reviews/Reviews";
 import DashBoard from "./Component/DashBoard/DashBoard";
 import Blogs from "./Component/Blogs/Blogs";
 import About from "./Component/About/About";
@@ -15,7 +15,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/home" element={<Home></Home>}></Route>
-        <Route path="/review" element={<Review></Review>}></Route>
+        <Route path="/reviews" element={<Reviews></Reviews>}></Route>
         <Route path="/dashboard" element={<DashBoard></DashBoard>}></Route>
         <Route path="/blogs" element={<Blogs></Blogs>}></Route>
         <Route path="/about" element={<About></About>}></Route>

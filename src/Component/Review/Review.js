@@ -3,6 +3,7 @@ import "./Review.css";
 
 const Review = (props) => {
   const { name, comment, ratings } = props.review;
+
   return (
     <div className="reviews">
       <h4>Name: {name}</h4>

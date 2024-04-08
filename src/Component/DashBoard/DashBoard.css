@@ -1,0 +1,9 @@
+.dashboard {
+  display: flex;
+}
+.area-chart {
+  margin: 100px 50px;
+}
+.bar-chart {
+  margin: 100px 50px;
+}
